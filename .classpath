@@ -18,12 +18,12 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/SELENIUM/Selenium_jars/selenium_eclipse/selenium-java-3.12.0/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/SELENIUM/Selenium_jars/selenium_eclipse/selenium-java-3.12.0/libs/gson-2.8.2.jar"/>
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/SELENIUM/Selenium_jars/selenium_eclipse/selenium-java-3.12.0/client-combined-3.12.0.jar"/>
-	<classpathentry kind="lib" path="C:/SELENIUM/Selenium_jars/selenium_eclipse/selenium-java-3.12.0/libs/gson-2.8.2.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
