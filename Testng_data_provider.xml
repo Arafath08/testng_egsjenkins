@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<parameter name="param one" value="First parameter" />
+  <parameter name="param two" value="" />
+  <parameter name="param three" value="third parameter" />
+ <test name="Method Test Cases" >
+    <classes>
+    
+       <class name="Dataprovider.paramter_optional" />
+       
+       
+    </classes>
+  </test>
+</suite> <!-- Suite -->
